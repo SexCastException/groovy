@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<servlets>
+    <span style="font-size:14px;">
+        <servlet>
+            <servlet-name>servletName1</servlet-name>
+            <servlet-class>com.huazai.servlet.LoginServlet</servlet-class>
+        </servlet>
+        <servlet-mapping>
+            <servlet-name>servletName2</servlet-name>
+            <url-pattern>/login</url-pattern>
+        </servlet-mapping>
+    </span>
+</servlets>

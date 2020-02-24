@@ -1,0 +1,5 @@
+<languages type='current' count='3' mainstream='true'>
+  <language flavor='static' version='1.8'>java</language>
+  <language flavor='dynamic' version='6.2'>groovy</language>
+  <language flavor='dynamic' version='1.9'>javaScript</language>
+</languages>
