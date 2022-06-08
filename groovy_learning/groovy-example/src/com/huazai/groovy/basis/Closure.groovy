@@ -9,4 +9,7 @@ closure1('qqq')
 
 def closure2 = { return "闭包一定有返回值，不返回值，则默认返回null" }
 println closure2()
+println closure2.call()
 
+def closure3 = {}
+println closure3()
